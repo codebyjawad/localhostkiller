@@ -1,4 +1,16 @@
-.git/
+# .gitignore
+
+# Internal docs (not for public)
+COMPLETE.md
+PROGRESS.md
+BUILD_COMPLETE.md
+FINAL_SUMMARY.md
+LAUNCH.md
+SHOW_HN.md
+PRODUCT_HUNT.md
+TWITTER.md
+
+# Python
 __pycache__/
 *.pyc
 *.pyo
