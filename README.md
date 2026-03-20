@@ -103,8 +103,6 @@ Kill node on port 3000? [Y/n]: y
 
 **Price:** $19 one-time payment
 
-[Get notified when Pro launches →](https://makeworking.com)
-
 ## Development
 
 ```bash
