@@ -16,7 +16,6 @@ keywords = ["localhost", "kill", "process", "dev", "cli", "developer-tools"]
 classifiers = [
     "Development Status :: 4 - Beta",
     "Intended Audience :: Developers",
-    "License :: OSI Approved :: MIT License",
     "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3.8",
     "Programming Language :: Python :: 3.9",
@@ -33,8 +32,8 @@ dependencies = [
 
 [project.urls]
 Homepage = "https://makeworking.com/localhostkiller"
-Repository = "https://github.com/jawad/localhostkiller"
-Documentation = "https://github.com/jawad/localhostkiller#readme"
+Repository = "https://github.com/codebyjawad/localhostkiller"
+Documentation = "https://github.com/codebyjawad/localhostkiller#readme"
 
 [project.scripts]
 lhk = "lhk:main"
