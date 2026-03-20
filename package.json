@@ -1,0 +1,12 @@
+{
+  "name": "localhostkiller",
+  "version": "0.1.0",
+  "description": "Kill localhost processes with style",
+  "main": "lhk.py",
+  "scripts": {
+    "test": "python3 lhk.py"
+  },
+  "keywords": ["localhost", "kill", "process", "dev", "cli"],
+  "author": "Jawad",
+  "license": "MIT"
+}
