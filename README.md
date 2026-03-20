@@ -108,7 +108,7 @@ Kill node on port 3000? [Y/n]: y
 ## Development
 
 ```bash
-git clone https://github.com/jawad/localhostkiller
+git clone https://github.com/codebyjawad/localhostkiller
 cd localhostkiller
 pip install -e .
 python3 lhk.py --list
@@ -134,6 +134,12 @@ MIT © [Jawad](https://codebyjawad.com)
 - 🐙 GitHub: [github.com/jawad/localhostkiller](https://github.com/jawad/localhostkiller)
 - 🐦 Twitter: [@jawad](https://twitter.com/jawad)
 - 📦 PyPI: [pypi.org/project/localhostkiller](https://pypi.org/project/localhostkiller)
+
+---
+
+**Made with ❤️ by developers, for developers.**
+ developers, for developers.**
+iller)
 
 ---
 
